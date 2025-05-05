@@ -1,7 +1,7 @@
 # Data_Contest_Website
 
-준우야 건들지 말라니까    
-현재시간 23:09 수정되나??holy
+준우야 건들지 말라니까는 좀 서운   
+
 
 1. git init
 2. git remote remove main
