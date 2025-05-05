@@ -1,7 +1,7 @@
 # Data_Contest_Website
 
 준우야 건들지 말라니까는 좀 서운   
-
+한번더
 
 1. git init
 2. git remote remove main
